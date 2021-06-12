@@ -28,7 +28,7 @@ params:
       description: "Nasz bot na discord #1"
     - name: Serwer Minecraft
       description: Oto nasz serwer minecraft Survival
-  dateFormat: January 2, 2006 O 3:04 PM
+  dateFormat: January 2, 2006 at 3:04 PM
   disqusShortname: ONLy-MC
   timezoneString: " UTC"
   logo: static/images/uploads/images.jpg
