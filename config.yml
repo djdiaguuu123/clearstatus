@@ -1,4 +1,5 @@
 title: Only-MC STATUS SERWERÓW
+baseURL: https://only-mc.pl/
 languageCode: pl
 params:
   shortDateFormat: 15:04 — Jan 2
