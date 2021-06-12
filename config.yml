@@ -1,17 +1,32 @@
 title: Only-MC STATUS SERWERÓW
-languageCode: en
+languageCode: pl
 params:
   shortDateFormat: 15:04 — Jan 2
   meta_description: Ta strona stanu zawiera aktualne informacje na temat
     normalnego działania naszych systemów, możliwych incydentów i ich
     rozwiązania.
   systems:
-    - name: Website
-      description: Our company public facing website
-      link: https://www.example.com/
-    - name: Helpdesk
-      description: Our company customer support site
-      link: https://support.example.com/
+    - name: Strona WWW
+      description: Nasza strona WWW
+      link: https://only-mc.pl/
+    - name: Formularz kontaktowy
+      description: Nasz formularz kontaktowy
+      link: https://only-mc.pl/kontakt
+    - name: ItemShop
+      description: Nasz sklepik
+      link: https://only-mc.pl/sklep/
+    - name: Lista banów
+      description: Lista kar nadanych na naszych serwerach
+      link: https://bany.only-mc.pl/
+    - name: Discord
+      description: Nasz discord
+      link: https://discord.only-mc.pl/
+    - name: "Bot #1"
+      description: "Nasz bot na discord #1"
+    - name: "Bot #1"
+      description: "Nasz bot na discord #1"
+    - name: Serwer Minecraft
+      description: Oto nasz serwer minecraft Survival
   dateFormat: January 2, 2006 O 3:04 PM
   disqusShortname: ONLy-MC
   timezoneString: " UTC"
