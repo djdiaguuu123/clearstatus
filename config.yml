@@ -31,7 +31,7 @@ params:
   dateFormat: January 2, 2006 O 3:04 PM
   disqusShortname: ONLy-MC
   timezoneString: " UTC"
-  logo: /images/clearstatus.svg
+  logo: static/images/uploads/images.jpg
   description_header: Ta strona zawiera najpotrzebniejsze informacje o poprawności
     działania naszych systemów. Jeżeli masz jakieś problemy (np. z połączeniem z
     serwerem) wróć tu z powrotem i zobacz czy wszystko działa poprawnie
